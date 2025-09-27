@@ -1,4 +1,5 @@
 #💫 About Me:
+
 👋 Hi, I’m Utkarsh, a passionate student currently learning and building projects in Web Development / AI / etc. <br>🌱 I’m always curious about new technologies and currently exploring tech stack.<br>💻 I love turning ideas into real projects that solve problems or make life easier.<br>📚 Apart from coding, I enjoy learning about (e.g., design, algorithms, open source).<br>🚀 My goal is to grow as a developer and contribute to open-source projects.<br>🔗 Check out my projects below ⬇️, and feel free to collaborate!<br>📫 You can reach me at your email or connect with me on LinkedIn / portfolio site.
 
 
